@@ -1,0 +1,8 @@
+.env
+.vscode
+node_modules
+tmp
+file
+.idea
+safe.dat
+.DS_Store
